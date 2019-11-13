@@ -6,6 +6,6 @@
   git clone --recursive https://github.com/peter-iakovlev/Telegram-iOS.git
 * Telegram-iOS.workspace
 * Telegram-iOS-Fork方案
-* Telegram-iOS-Fork到Telegram-iOS-AppStoreLLC
+* Telegram-iOS-Fork到Telegram-iOS-AppStoreLLC ????
 * 开始编译过程
 * 要在您的设备上运行该应用，您需要根据您的开发者帐户值为签名，.entitlements文件和程序包ID设置正确的值
